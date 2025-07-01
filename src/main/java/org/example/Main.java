@@ -5,7 +5,19 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
 
+        Scanner readData=new Scanner(System.in);
 
+        System.out.println("**** RESIDENT EVIL BY GLOBERS ****");
+
+        //Personaje Leon:
+        final String nombre;
+        final int edad;
+        int cantidadVida;
+
+        //personaje Mr. X:
+        final String nombre;
+        final String virus;
+        int cantidadVida;
 
     }
 }
